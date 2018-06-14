@@ -1,0 +1,20 @@
+---
+layout: post
+current: post
+cover:  assets/images/welcome.jpg
+navigation: True
+title: Start blog!!!!!
+date: 2018-06-04 16:00:00
+tags: [Getting started]
+class: post-template
+subclass: 'post'
+author: sunshine
+
+---
+드디어 블로그 시작!!
+
+### 어렵다아 ㅠ_ㅠ
+
+![test](https://raw.githubusercontent.com/sunshine-deep/blog_image/master/image1%20(1).jpg)
+
+그래도 이래저래 시도해 보자 ^^
