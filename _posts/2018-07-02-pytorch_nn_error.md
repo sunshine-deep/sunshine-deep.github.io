@@ -4,7 +4,7 @@ current: post
 cover: assets/images/welcome.jpg
 navigation: True
 title: [Pytorch] NameError: name 'nn' is not defined
-date: 2018-06-04 16:00:00
+date: 2018-07-02 15:40:00
 tags: [pytorch]
 class: post-template
 subclass: 'post'
