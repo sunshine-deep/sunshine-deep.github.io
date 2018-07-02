@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: assets/images/welcome.jpg
+cover: assets/images/waves.jpg
 navigation: True
-title: [Pytorch] NameError: name 'nn' is not defined
+title: NameError: name 'nn' is not defined
 date: 2018-07-02 15:40:00
 tags: [pytorch]
 class: post-template
