@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/speeches.jpg
 navigation: True
-title: RuntimeError&#8758; Expected object of type torch.LongTensor but found type torch.FloatTensor for argument &#35;2 'target'
+title: Expected object of type torch.LongTensor but found type torch.FloatTensor for argument &#35;2 'target'
 date: 2018-07-02 15:50:00
 tags: [pytorch]
 class: post-template
