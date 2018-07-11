@@ -23,8 +23,8 @@ cuda variable 과 cpu variable간의 연산이 발생하면 위와 같은 에러
 cuda variable에 .cpu() 를 붙이거나 cpu variable에 .cuda()를 붙여서 연산하면 된다.
 
 ex)
-  a : cuda variable
+>  a : cuda variable  
   b : cpu varriable
 
-  sol 1) c = a.cpu() + b
-  sol 2) c= a + b.cuda()
+ > sol 1) **c = a.cpu() + b**  
+ > sol 2) **c = a + b.cuda()**
